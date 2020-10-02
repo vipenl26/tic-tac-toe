@@ -4,7 +4,7 @@ In one player mode you can never win against the bot.
 
 
 
-###Built With
+### Built With
 This project is built with python3.
 Pygame which is a python's module is used.
 MiniMax Algorithm is used for Bot.
